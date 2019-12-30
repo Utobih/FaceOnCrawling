@@ -1,7 +1,7 @@
 ~ FaceOnCrawling by Rob ~
 
 FaceOnCrawling é um Web crawling (Script que pega informações na internet), uma versão mais instavel do
-Bot_VFO (Bot que upei que faz o mesmo, mas usando o Selenium, que é bem mais pesado), que funciona de forma
+Bot_VFO (Bot que upei que faz quase o mesmo, mas usando o Selenium, que é bem mais pesado), que funciona de forma
 mais leve, rapida e com uma melhor aparencia (pelo menos eu acho), enfim, para usa-lo você pode usar tanto
 por parametros(via terminal que eu recomendo mais):
 
