@@ -32,7 +32,7 @@ ou
 ### @
 Ou você pode colar o link a ser verificado no arquivo link.txt (recomendo com parametros), enfim, façam bom uso, Abração do tio sz.
 
-## OBS: sempre utilize o url facebook desktop > (https://www.) e não o mobile > (http://m.) pois o unico que retorna o codigo é a versão desktop.
+##### OBS: sempre utilize o url facebook desktop > (https://www.) e não o mobile > (http://m.) pois o unico que retorna o codigo é a versão desktop.
 
 
 > ~ by Rob ~
