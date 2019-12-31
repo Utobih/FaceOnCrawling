@@ -15,11 +15,11 @@ FOC(FaceOnCrawling), é basicamente uma versão v2.0 do bot VFO, porem mais efic
 
 #### Uso (TERMINAL LINUX)
 Você pode usar o Script, tanto com parametros pelo terminal, quanto sem (recomendo com parametros).
-> ./FaceOnCrawling.py -u http://m.facebook.com/link_do_perfil
+> ./FaceOnCrawling.py -u https://www.facebook.com/link_do_perfil
 
 ou
 
-> ./FaceOnCrawling --url http://m.facebook.com/link_do_perfil 
+> ./FaceOnCrawling --url https://www.facebook.com/link_do_perfil 
 
 para um help basico, digite:
 
@@ -31,5 +31,8 @@ ou
 
 ### @
 Ou você pode colar o link a ser verificado no arquivo link.txt (recomendo com parametros), enfim, façam bom uso, Abração do tio sz.
+
+## OBS: sempre utilize o url facebook desktop > (https://www.) e não o mobile > (http://m.) pois o unico que retorna o codigo é a versão desktop.
+
 
 > ~ by Rob ~
