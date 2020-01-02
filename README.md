@@ -1,9 +1,9 @@
 # FaceOnCrawling
-WebCrawling que verifica atividade ou inatividade(ativada, desativada) em conta do facebook, atravez de requicições.
+WebCrawling que verifica atividade ou inatividade em conta do facebook, atravez de requicições, deselvolvido em python.
 
 
 #### reqs
-FOC(FaceOnCrawling), é basicamente uma versão v2.0 do bot VFO, porem mais eficaz, leve e instavel, no bot, eu utilizava o Selenium como drive o firefox, sem falar do vitual diplay, isso comia muita memoria ram, então, eu fui dar uma estudada, sobre crawling e requisições, e resolvi fazer um v2 mais minimalista e de melhor performance.
+FOC(FaceOnCrawling), é quase como se fosse a versão v2.0 do bot VFO, porem diferente, enquanto o VFO verifica se tal facebook está online, este verifica se certa conta está, ou não ativada.
 
 
 #### instalar requisitos(LINUX):
